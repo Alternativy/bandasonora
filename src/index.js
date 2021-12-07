@@ -14,6 +14,7 @@ ReactDOM.render(
     <Componente1 />
     <Componente2 />
     <App />
+    <App />
     <Componente3 />
   </React.StrictMode>,
   document.getElementById('root')
